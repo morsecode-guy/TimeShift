@@ -1,0 +1,12 @@
+/home/morse-code-guy/Documents/TimeShift/obj/Release/net6.0/TimeShift.csproj.AssemblyReference.cache
+/home/morse-code-guy/Documents/TimeShift/obj/Release/net6.0/TimeShift.GeneratedMSBuildEditorConfig.editorconfig
+/home/morse-code-guy/Documents/TimeShift/obj/Release/net6.0/TimeShift.csproj.CoreCompileInputs.cache
+/home/morse-code-guy/Documents/TimeShift/bin/Release/net6.0/TimeShift.deps.json
+/home/morse-code-guy/Documents/TimeShift/bin/Release/net6.0/TimeShift.runtimeconfig.json
+/home/morse-code-guy/Documents/TimeShift/bin/Release/net6.0/TimeShift.dll
+/home/morse-code-guy/Documents/TimeShift/bin/Release/net6.0/ref/TimeShift.dll
+/home/morse-code-guy/Documents/TimeShift/bin/Release/net6.0/TimeShift.pdb
+/home/morse-code-guy/Documents/TimeShift/obj/Release/net6.0/TimeShift.dll
+/home/morse-code-guy/Documents/TimeShift/obj/Release/net6.0/ref/TimeShift.dll
+/home/morse-code-guy/Documents/TimeShift/obj/Release/net6.0/TimeShift.pdb
+/home/morse-code-guy/Documents/TimeShift/obj/Release/net6.0/TimeShift.genruntimeconfig.cache

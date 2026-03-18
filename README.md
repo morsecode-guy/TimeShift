@@ -4,8 +4,8 @@ A [MelonLoader](https://melonwiki.xyz/) mod for **Flyout** that lets you save an
 
 ## Features
 
-- **Quick save** with F5.
-- **Quick load** by holding F9 for 1 second.
+- **Quick save** with F5 (KSP style)
+- **Quick load** by holding F9 for 1 second (KSP style)
 - **State browser** with F10 to browse, load, and delete saves
 - **Time warp** 1x/2x/5x/10x with physics-safe warp
 - **Configurable keybinds** through the menu, saved to disk
